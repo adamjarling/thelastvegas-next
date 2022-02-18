@@ -1,0 +1,51 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    font-size: 16px;
+  }
+  h1,
+  h2,
+  h3,
+  h4,
+  h5 {
+    @apply text-uo-black;
+  }
+  h1,
+  .big-title {
+    @apply text-7xl md:text-9xl py-4 font-sans uppercase break-words;
+  }
+  h2 {
+    @apply text-5xl md:text-8xl py-4 font-sans uppercase break-words;
+  }
+  h3 {
+    @apply text-3xl md:text-4xl py-4 font-sans uppercase font-light break-words;
+  }
+  h4 {
+    @apply text-xl md:text-2xl py-4 font-sans font-semibold uppercase break-words;
+  }
+  h3.black {
+    @apply text-uo-black;
+  }
+  p {
+    @apply pb-4 tracking-widest font-light leading-relaxed;
+  }
+  a {
+    @apply border-b-2 border-dotted transition duration-500 ease-in-out;
+  }
+  input[type="email"],
+  input[type="text"] {
+    @apply shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none;
+  }
+  button {
+    @apply bg-transparent hover:bg-gray-200 text-gray-100 font-sans uppercase hover:text-gray-900 py-2 px-8 border border-solid border-gray-200 hover:border-transparent tracking-widest rounded text-xl;
+  }
+  .banner-headline {
+    @apply inline bg-black p-6 text-6xl;
+  }
+  .lead-text {
+    @apply text-xl;
+  }
+}
