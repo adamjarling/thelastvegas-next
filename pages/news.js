@@ -20,7 +20,7 @@ export default function News({ allPostsData }) {
   return (
     <Layout>
       <Head>
-        <title>News - Urge Overkill</title>
+        <title>News - The Last Vegas</title>
       </Head>
 
       <Section>

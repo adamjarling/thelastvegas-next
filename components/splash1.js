@@ -13,14 +13,13 @@ function Splash1({ photo }) {
       ]}
       style={{ height: "80vh" }}
     >
-      <div className="absolute top-0 left-0 right-0 bottom-0 flex flex-col justify-end items-end pb-6 px-6 md:pb-12 md:px-12 md:flex-row md:justify-between">
-        {/* <Link href="/music">
-          <a className="uppercase text-2xl mb-6 font-bold font-sans">
-            Listen Now
-          </a>
-        </Link> */}
-        <h1 className="text-right text-white">U.R.G.E.</h1>
-      </div>
+      <ParallaxBannerChildren>
+        <div className="flex flex-col items-center">
+          {/* <h2 className="text-white text-center">
+            Hard Glam Garage Boogie Rock USA
+          </h2> */}
+        </div>
+      </ParallaxBannerChildren>
     </ParallaxBanner>
   );
 }

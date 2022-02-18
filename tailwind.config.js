@@ -18,8 +18,8 @@ module.exports = {
         "uo-dark-green": "#576c68",
         "uo-green": "#92b4ad",
         "uo-yellow": "#efeaba",
-        "uo-black": "#231f20",
-        "uo-orange": "#fa4d09",
+        "uo-black": "#000000",
+        "tlv-red": "#6b0504",
       },
       spacing: {
         128: "32rem",

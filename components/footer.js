@@ -6,7 +6,7 @@ import ExternalLink from "./external-link";
 import { distributors } from "social-media-manifest";
 import Obfuscate from "react-obfuscate";
 
-const footerSocials = [
+export const footerSocials = [
   {
     label: "Instagram",
     url: distributors.instagram,
@@ -27,13 +27,13 @@ const footerSocials = [
 
 export default function Footer() {
   return (
-    <footer className="bg-uo-orange text-white uppercase text-xl md:text-2xl">
+    <footer className="bg-black text-white uppercase text-xl md:text-2xl">
       <Section>
         <div className="flex flex-col md:flex-row pl-6 md:pl-12">
           <div className="pb-10 flex-1">
             <p>Contact:</p>
-            <Obfuscate email="beth@bethwinermanagement.com">
-              beth@bethwinermanagement.com
+            <Obfuscate email="info@thelastvegas.com">
+              info@thelastvegas.com
             </Obfuscate>
           </div>
           <ul className="flex-1">

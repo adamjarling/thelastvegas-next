@@ -3,13 +3,13 @@ import Header from "components/header";
 import Image from "next/image";
 import Footer from "components/footer";
 
-export const siteTitle = "Urge Overkill";
+export const siteTitle = "The Last Vegas";
 
 export default function Layout({ children, home }) {
   return (
-    <div className="text-uo-black bg-white min-h-screen font-display font-light">
+    <div className="text-white bg-uo-black min-h-screen font-display font-light">
       <Head>
-        <link rel="icon" href="/images/UO-Logo-hi-res.png" />
+        <link rel="icon" href="/images/LV_Star.jpg" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link
           rel="preconnect"
@@ -23,9 +23,9 @@ export default function Layout({ children, home }) {
 
         <meta
           name="description"
-          content="Urge Overkill is an American alternative rock band, formed in Chicago, Illinois, United States, consisting of Nash Kato (vocals/guitar), and Eddie King Roeser (vocals/guitar/bass guitar)"
+          content="The Last Vegas is an American hard rock band, formed in Chicago, Illinois, United States"
         />
-        <meta property="og:image" content="/images/uo-circle-logo-400px.png" />
+        <meta property="og:image" content="/images/tlv-old-school-loft.jpg" />
         <meta name="og:title" content={siteTitle} />
         <meta name="twitter:card" content="summary_large_image" />
       </Head>

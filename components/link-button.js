@@ -34,7 +34,7 @@ export default function LinkButton({
           target={isExternal ? `_blank` : undefined}
           className={`${[
             ...sharedClasses,
-          ]} bg-uo-orange hover:bg-transparent text-white font-sans hover:text-uo-orange border border-uo-orange `}
+          ]} bg-tlv-red hover:bg-transparent text-white font-sans hover:text-tlv-red border border-tlv-red `}
         >
           {children}
         </a>

@@ -18,7 +18,7 @@ export default function Discography() {
   return (
     <Layout>
       <Head>
-        <title>Discography - Urge Overkill</title>
+        <title>Discography - The Last Vegas</title>
       </Head>
 
       <div className="pt-10 ">

@@ -4,7 +4,6 @@ import Link from "next/link";
 import Image from "next/image";
 import { useScrollPosition } from "@n8tb1t/use-scroll-position";
 import classNames from "classnames";
-import logo from "public/images/logo-uo1-header.png";
 import SocialMediaIcons from "components/social-media-icons";
 import Obfuscate from "react-obfuscate";
 
@@ -17,10 +16,10 @@ const navLinks = [
   //   url: "/videos",
   //   label: "Videos",
   // },
-  {
-    url: "/discography",
-    label: "Discography",
-  },
+  // {
+  //   url: "/discography",
+  //   label: "Discography",
+  // },
   // {
   //   url: "/news",
   //   label: "News",
@@ -53,7 +52,7 @@ export default function Header() {
           "min-w-full",
           "transition",
           "duration-1000",
-          "bg-white",
+          "bg-black",
           "bg-opacity-80",
         ])}
       >
@@ -61,7 +60,7 @@ export default function Header() {
           <Link href="/">
             <a className="relative border-none w-40 pt-1">
               <Image
-                src="/images/UO-Logo-cropped.png"
+                src="/images/tlv-sweet-salvation-logo-white.png"
                 alt="UO logo"
                 layout="responsive"
                 width={1496}
@@ -82,7 +81,7 @@ export default function Header() {
           </nav>
 
           {/* Hamburger menu mobile nav */}
-          <div
+          {/* <div
             className={names(
               ["tham", "tham-e-squeeze", "tham-w-8", "lg:hidden"],
               {
@@ -94,7 +93,7 @@ export default function Header() {
             <div className="tham-box">
               <div className="tham-inner bg-uo-black" />
             </div>
-          </div>
+          </div> */}
         </div>
       </header>
 

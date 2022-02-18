@@ -1,3 +1,3 @@
-# Urge Overkill Next JS website
+# The Last Vegas Next JS website
 
 ...more coming soon

@@ -25,7 +25,7 @@ function IntroParagraph(props) {
           </ExternalLink>
           ,{" "}
           <ExternalLink url="https://urgeoverkill.com/">
-            Urge Overkill
+            The Last Vegas
           </ExternalLink>
           ,{" "}
           <ExternalLink url="https://www.gethip.com/site/artists/cynics/">

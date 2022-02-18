@@ -9,7 +9,7 @@ tagLine: "Pre-sale now live!  Order now at Cargo Records UK Direct: FURBABY & TH
 
 It’s time to swipe right on Furbaby & the Tight Spaces, a garage rock band that records music, reads, does yoga, drinks wine and takes long walks along the beach.
 
-Featuring past and current members of bands including The Last Vegas, The Steepwater Band, Urge Overkill, Family Groove Company, The Cynics, Warrior Soul, Abbarama and Tyla & Dogs D’Amour, Furbaby & the Tight Spaces were dreamed up during 2020 quarantine to lift spirits and stay connected with fellow musicians and friends.
+Featuring past and current members of bands including The Last Vegas, The Steepwater Band, The Last Vegas, Family Groove Company, The Cynics, Warrior Soul, Abbarama and Tyla & Dogs D’Amour, Furbaby & the Tight Spaces were dreamed up during 2020 quarantine to lift spirits and stay connected with fellow musicians and friends.
 
 As the world unexpectedly fast-forwarded into the future, with it came fresh perspective; DIY simplicity, experimentation, values of inclusiveness and diversity of ideas.
 

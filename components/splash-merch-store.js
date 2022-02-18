@@ -28,14 +28,14 @@ function SplashMerchStore() {
             <span className="pb-4 md:pr-6 inline-block">
               <LinkButton
                 isExternal
-                href="https://www.hellomerch.com/collections/urge-overkill"
+                href="https://www.hellomerch.com/collections/the-last-vegas"
               >
                 US Store
               </LinkButton>
             </span>
             <LinkButton
               isExternal
-              href="https://www.musicglue.com/urge-overkill/"
+              href="https://www.musicglue.com/the-last-vegas/"
             >
               EU/UK Store
             </LinkButton>

@@ -3,10 +3,10 @@ export default {
     type: "website",
     locale: "en_IE",
     url: "https://www.urgeoverkill.com/",
-    title: "Urge Overkill",
+    title: "The Last Vegas",
     description:
-      "Urge Overkill is an American alternative rock band, formed in Chicago, Illinois, United States, consisting of Nash Kato (vocals/guitar), and Eddie King Roeser (vocals/guitar/bass guitar)",
-    site_name: "Urge Overkill",
+      "The Last Vegas is an American alternative rock band, formed in Chicago, Illinois, United States, consisting of Nash Kato (vocals/guitar), and Eddie King Roeser (vocals/guitar/bass guitar)",
+    site_name: "The Last Vegas",
   },
   twitter: {
     handle: "@UrgeOverkill",

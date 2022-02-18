@@ -24,7 +24,7 @@ function SplashOuiAlbum() {
 
       <section className="flex flex-col items-center justify-center">
         <div className="max-w-screen-lg my-6 text-center">
-          <h2>First new album from Urge Overkill in a decade.</h2>
+          <h2>First new album from The Last Vegas in a decade.</h2>
           <h3>Out Now!</h3>
           <p>
             When the world was asked if it was time for new music from Urge
